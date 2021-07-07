@@ -6,6 +6,10 @@
 - [운영체제](#pushpin-operating-system)
 - [컴퓨터구조](#pushpin-computer-architecture)
 
+## Reference 정리
+
+- [임호정님이 정리해주신 교안 내 링크](https://www.notion.so/Computer-Science-df40fd6110dc4c54add49e9e0d9b5e1f)
+
 ## 규칙
 
 - 벌금 하루 3000원
