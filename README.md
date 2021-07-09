@@ -24,7 +24,7 @@
 |      |          | [강의 개요]             |                      |                      |                      |
 | 1    | 1        | 1, 2장 네트워크와 모델  | :white_check_mark:   | :white_check_mark: | :white_check_mark: |
 | 1    | 1        | 3장 데이터 통신         |  :white_check_mark:  | :white_check_mark:  | :white_large_square: |
-| 1    | 2        | 4장 IP 주소             | :white_large_square: | :white_large_square: | :white_check_mark: |
+| 1    | 2        | 4장 IP 주소             | :white_large_square: |  :white_check_mark: | :white_check_mark: |
 | 1    | 1        | 5장 ARP 프로토콜        | :white_large_square: | :white_large_square: | :white_large_square: |
 | 1    | 2        | 6장 IPv4, ICMP 프로토콜 | :white_large_square: | :white_large_square: | :white_large_square: |
 | 2    | 2        | 7장 전송계층 및 포트    | :white_large_square: | :white_large_square: | :white_large_square: |
