@@ -26,8 +26,8 @@
 | 1    | 1        | 3장 데이터 통신         | :white_check_mark:   | :white_check_mark:   | :white_check_mark:   |
 | 1    | 2        | 4장 IP 주소             | :white_check_mark:   | :white_check_mark:   | :white_check_mark:   |
 | 1    | 1        | 5장 ARP 프로토콜        | :white_check_mark:   | :white_check_mark:   | :white_check_mark:   |
-| 1    | 2        | 6장 IPv4, ICMP 프로토콜 | :white_check_mark:   |  :white_check_mark: | :white_check_mark:   |
-| 2    | 2        | 7장 전송계층 및 포트    | :white_large_square: | :white_check_mark:| :white_check_mark: |
+| 1    | 2        | 6장 IPv4, ICMP 프로토콜 | :white_check_mark:   | :white_check_mark:   | :white_check_mark:   |
+| 2    | 2        | 7장 전송계층 및 포트    | :white_check_mark:   | :white_check_mark:   | :white_check_mark:   |
 | 2    | 1        | 8장 UDP 비연결지향형    | :white_large_square: | :white_large_square: | :white_large_square: |
 | 2    | 2        | 9장 TCP 연결지향형      | :white_large_square: | :white_large_square: | :white_large_square: |
 | 2    | 1        | 10장 NAT와 포트포워딩   | :white_large_square: | :white_large_square: | :white_large_square: |
