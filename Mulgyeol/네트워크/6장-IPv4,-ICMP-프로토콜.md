@@ -1,4 +1,4 @@
-# 멀리 있는 컴퓨터끼리는 이렇게 데이터를 주고받는다(3계층)
+# 3계층 - 멀리 있는 컴퓨터끼리는 이렇게 데이터를 주고받는다
 
 ## [IPv4 프로토콜](https://youtu.be/_i8O_o2ozlE?list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi)
 
