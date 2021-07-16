@@ -31,7 +31,7 @@
 | 2    | 1        | 8장 UDP 비연결지향형    | :white_check_mark:   | :white_check_mark:   | :white_check_mark:   |
 | 2    | 2        | 9장 TCP 연결지향형      | :white_large_square: | :white_check_mark:   | :white_check_mark:   |
 | 2    | 1        | 10장 NAT와 포트포워딩   | :white_large_square: | :white_check_mark:| :white_check_mark: |
-| 2    | 2        | 11장 HTTP 프로토콜      | :white_large_square: | :white_large_square: | &#9997; 진행중[1/2] |
+| 2    | 2        | 11장 HTTP 프로토콜      | :white_large_square: | ...1/2 진행중! | &#9997; 진행중[1/2] |
 
 ---
 
