@@ -40,7 +40,7 @@
 | 파트 | 학습시간 | 강의내용                                    | Mulgyeol             | krju13               | daeungdaeung         |
 | ---- | -------- | ------------------------------------------- | -------------------- | -------------------- | -------------------- |
 |      |          | 강의 개요                                   |                      |                      |                      |
-| 1    | 5        | 1, 2장 운영체제 개요 및 컴퓨터시스템의 구조 | :white_large_square: | 1-2 | &#9997;수강중[2/3] |
+| 1    | 5        | 1, 2장 운영체제 개요 및 컴퓨터시스템의 구조 | :white_large_square: | 1-2 | :white_check_mark: |
 | 1    | 4        | 3장 프로세스                                | :white_large_square: | :white_large_square: | :white_large_square: |
 | 1    | 4        | 4장 프로세스 관리                           | :white_large_square: | :white_large_square: | :white_large_square: |
 | 1    | 3        | 5장 CPU 스케쥴링                            | :white_large_square: | :white_large_square: | :white_large_square: |
