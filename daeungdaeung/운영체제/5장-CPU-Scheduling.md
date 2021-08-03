@@ -75,7 +75,25 @@ Performance Index (= Performance Measure, 성능 척도)
   
 - Priority Scheduling `(0:47:59)`
 
+  - A **priority number** is associated with each process
+  - highest priority를 가진 프로세스에게 CPU 할당
+    - Preemptive
+    - Nonpreemptive
+  - SJF는 일종의 priority scheduling입니다.
+    - priority = predicted next CPU burst time
+  - Problem
+    - **Starvation (기아 현상)**: low priority processes may never execute.
+  - Solution
+    - **Aging**: as time progresses increase the priority of the process.
 
+- Round Robin (RR)
+  - 각 프로세스는 동일한 크기의 할당 시간 (**time quantum**)을 가집니다. (일반적으로 10-100 ms)
+  - 할당 시간이 지나면 프로세스는 선점(preemptive)당하고 ready queue의 제일 뒤에 가서 다시 줄을 섭니다.
+  - n 개의 프로세스가 ready queue에 있고 할당 시간이 q time unit 이라면 **어떤 프로세스도 (n-1)q time unit 이상 CPU를 할당 받기 위해 기다리지 않습니다.**
+  - Performance
+    - q large => FCFS
+    - q small => **context switch** 오버헤드가 커짐
+    - 일반적으로 SJF보다 **average turnaround time이 길지**만 **response time은 짧습**니다.
 
 
 
